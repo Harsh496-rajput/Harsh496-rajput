@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I’m Harsh 👋<br>🎓 B.Tech Computer Science & Engineering student<br>💻 Passionate about coding, technology & cybersecurity 🔐<br>🚀 Always curious to learn new skills and upgrade myself<br>📚 Balancing college life, exams, and self-growth<br>🎮 Tech lover who enjoys exploring gadgets & gaming sometimes<br>🔥 Dreaming big, working hard, and staying focused on the future
+Hi, I’m Harsh 👋<br>🎓 B.Tech Computer Science & Engineering student<br>💻 Passionate about coding, technology & He DevOps and cloud computing 🔐<br>🚀 Always curious to learn new skills and upgrade myself<br>📚 Balancing college life, exams, and self-growth<br>🎮 Tech lover who enjoys exploring gadgets & gaming sometimes<br>🔥 Dreaming big, working hard, and staying focused on the future
 
 
 ## 🌐 Socials:
